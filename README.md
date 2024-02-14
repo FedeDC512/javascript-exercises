@@ -1,3 +1,18 @@
+## Personal Exercises Progress
+
+- [ ] 01_helloWorld
+- [ ] 02_repeatString
+- [ ] 03_reverseString
+- [ ] 04_removeFromArray
+- [ ] 05_sumAll
+- [ ] 06_leapYears
+- [ ] 07_tempConversion
+- [ ] 08_calculator
+- [ ] 09_palindromes
+- [ ] 10_fibonacci
+- [ ] 11_getTheTitles
+- [ ] 12_findTheOldest
+
 # JavaScript Exercises
 
 These JavaScript exercises are intended to complement the JavaScript content on The Odin Project (TOP). They should only be done when instructed during the course of the curriculum.
