@@ -1,17 +1,17 @@
 ## Personal Exercises Progress
 
-- [ ] 01_helloWorld
-- [ ] 02_repeatString
-- [ ] 03_reverseString
-- [ ] 04_removeFromArray
-- [ ] 05_sumAll
-- [ ] 06_leapYears
-- [ ] 07_tempConversion
-- [ ] 08_calculator
-- [ ] 09_palindromes
-- [ ] 10_fibonacci
-- [ ] 11_getTheTitles
-- [ ] 12_findTheOldest
+- [x] 01_helloWorld
+- [x] 02_repeatString
+- [x] 03_reverseString
+- [x] 04_removeFromArray
+- [x] 05_sumAll
+- [x] 06_leapYears
+- [x] 07_tempConversion
+- [x] 08_calculator
+- [x] 09_palindromes
+- [x] 10_fibonacci
+- [x] 11_getTheTitles
+- [x] 12_findTheOldest
 
 # JavaScript Exercises
 
